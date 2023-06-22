@@ -1,0 +1,10 @@
+body{
+    font-style: italic;
+
+}
+.txt{
+    border: 4px solid black;
+}
+mark{
+    border: 10px solid black;
+}
