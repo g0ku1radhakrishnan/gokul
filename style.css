@@ -1,32 +1,47 @@
 .part1{
-background-color: orangered;
-font-weight: 500;
-}
-.img{
-    margin-top: 50px;
-    margin-left: 50px;
-}
-  @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
-.h1{
-    margin-left: 500px;
-    color: red;
-    font-family: 'Anton', sans-serif;
+    background-color: orangered;
+    font-weight: 500;
+    }
+    .img{
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+      @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+    .h1{
+        margin-left: 500px;
+        color: red;
+        font-family: 'Anton', sans-serif;
+        
+    }
+    .hm1{
+        font-weight: 500;
+    }
+    img{
+        float: left;
+    }
+    .about{
+        margin-top: 50px;
+        font-weight: 500;
+    }
+    .head{
+        margin-top: 50px;
+        font-weight: 500;
+    }
+    .about1{
+        font-weight: 500;
+    }
+    .bgimg{
+        background-image: url(../gokul/jeans.jpg);
+        height: 400px;
+    }
     
-}
-.hm1{
-    font-weight: 500;
-}
-img{
-    float: left;
-}
-.about{
-    margin-top: 50px;
-    font-weight: 500;
-}
-.head{
-    margin-top: 50px;
-    font-weight: 500;
-}
-.about1{
-    font-weight: 500;
-}
+    .c1{
+        color: white;
+    }
+    .c2{
+        color: white;
+    }
+    .ga{
+        margin-left: 50%;
+    }
+
