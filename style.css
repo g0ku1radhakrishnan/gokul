@@ -31,8 +31,9 @@
         font-weight: 500;
     }
     .bgimg{
-        background-image: url(../gokul/jeans.jpg);
-        height: 400px;
+        background-image: url(../gokul/le.jpeg);
+        height: 450px;
+        border-radius: 15px;
     }
     
     .c1{
@@ -58,6 +59,7 @@
     background-color: black;
 }
 .cole{
+   
     background-color: black;
     color: white;
 }
@@ -73,5 +75,9 @@
     background-color: black;
 }
 .image1{
-    margin-left: 300px;
+    margin-left: 100px;
+}
+.bg{
+    color: white;
+    font-weight: 50px;
 }
