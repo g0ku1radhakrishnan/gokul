@@ -1,0 +1,64 @@
+.s1{
+    margin-top: 50px;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+.s2{
+    text-decoration: none;
+    margin-top: 50px;
+    color: white;    
+}
+.S3{
+    text-align: center;
+     margin-top: 210px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+    
+}
+.bt{
+    border-radius: 20px;
+}
+.image{
+    background-image: url(../gokul/lemon.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+min-height: 100vh;
+background-position: bottom;
+}
+.arrow{
+    margin-left: 910px;
+    margin-top: 50px;
+}
+.tr{
+    font-weight: 900;
+    margin-top: 100px;
+    margin-left: 300px;
+    font-family: 'Fraunces', serif;
+}
+.tr1{
+    margin-top: 50px;
+    margin-left: 300px;
+    font-weight: 500;
+}
+.hr{
+    margin-left: 300px;
+    text-decoration: none;
+    color: black;
+}
+.egg{
+    margin-left: 200px;
+}
+.tr2{
+     font-weight: 900;
+     margin-right: 200px;
+    margin-top: 200px;
+    font-family: 'Fraunces', serif;
+}
+    
+.tr3{
+    margin-top: 50px;
+    font-weight: 500;
+
+}
