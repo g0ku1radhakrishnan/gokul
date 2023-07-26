@@ -1,0 +1,133 @@
+.s1{
+    margin-top: 50px;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+.s2{
+    text-decoration: none;
+    margin-top: 50px;
+    color: white;    
+}
+.S3{
+    text-align: center;
+     margin-top: 210px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+    
+}
+.bt{
+    border-radius: 20px;
+}
+.image{
+    background-image: url(../gokul/lemon.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+min-height: 100vh;
+background-position: bottom;
+}
+.arrow{
+    margin-left: 910px;
+    margin-top: 50px;
+}
+.tr{
+    font-weight: 900;
+    margin-top: 100px;
+    font-size: 60px;
+    margin-left: 300px;
+    font-family: 'Fraunces', serif;
+}
+.tr1{
+    margin-top: 50px;
+    margin-left: 300px;
+    font-weight: 500;
+}
+
+.egg{
+    margin-left: 200px;
+}
+.tr2{
+     font-weight: 900px;
+    margin-top: 200px;
+     font-family: 'Fraunces', serif;
+     font-size: 60px;
+    margin-left: 100px;
+}
+    
+.tr3{
+    margin-top: 50px;
+    font-weight: 500;
+    margin-left: 100px;
+   
+
+}
+
+.btn-underline{
+    font-family: 'Fraunces', serif;
+    color: #23303B;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: 16px;
+    position: relative;
+    margin-left: 100px;
+}
+.btn-underline::after{
+    content: '';
+    position: absolute;
+    background-color: #FF7769;
+    height: 10px;
+    width: 110%;
+    left: -5%;
+    bottom: 0;
+    z-index: -1;
+    transition: height 0.4s;
+}
+.btn-underline:hover::after{
+    height: 100%;
+
+}
+.pad{
+    margin-left: 300px;
+}
+.cherry{
+    margin-top: 500px;
+    margin-left: 350px;
+    font-family: 'Fraunces', serif;
+    font-weight: 900px;
+    font-size: 40px;
+    color: #2B7463;
+ 
+}
+.para{
+    margin-top: 20px;
+    margin-left: 330px;
+    color: #2b7463;
+}
+.apple{
+    background-image: url(../gokul/apple.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1010px;
+  
+} 
+.orange{
+    margin-top: 450px;
+    margin-left: 350px;
+    font-family: 'Fraunces', serif;
+    font-weight: 900px;
+    font-size: 40px;
+}
+.org{
+    margin-top: 25px;
+    margin-left: 300px; 
+}
+.l1{
+    background-image: url(../gokul/orange.jpg);
+ width: 910PX;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
