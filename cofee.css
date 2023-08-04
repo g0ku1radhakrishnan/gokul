@@ -1,14 +1,57 @@
+
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Anton&family=Kaushan+Script&display=swap');
+
 .class1{
-    background-color: orange;
-    border-radius: 20px;
+    background-color: rgb(255, 115, 1);
+    border-bottom-right-radius: 15px;
+    padding-top: 20px;
+    color: white;
+    font-size: 11px;
     
 }
 .class2{
     margin-left: 400px;
+    position: relative;
+    bottom: 10px;
 }
 .class3{
 margin-left: px;
+position: relative;
+bottom: 10px;
 }
 .class4{
     text-decoration: none;
+    position: relative;
+    bottom: 10px;
+}
+.class7{
+    position: relative;
+    bottom: 10px;
+}
+.class8{
+    position: relative;
+    bottom: 10px;
+}
+
+
+
+.class5{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Kaushan Script', cursive;
+    margin-left: 450px;
+    margin-top: 10px;
+    font-weight: 500px;
+    font-size: 40px;
+}
+.class6{
+    text-decoration: none;
+    margin-top: 15px;
+    color: black;
+    
+}
+.img{
+    border-top-left-radius: 50px;
+    position: relative;
+    right: 12px;
 }
