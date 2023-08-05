@@ -55,3 +55,39 @@ bottom: 10px;
     position: relative;
     right: 12px;
 }
+.cof{
+    margin-left: 400px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.cof2{
+    font-family: 'Kaushan Script', cursive;
+    color: orangered;
+
+}
+.cof1{
+    margin-top: 60px;
+}
+.cof3{
+    background-image: url(../gokul/bg2.jpg);
+    margin-top: 40px;
+    height: 500px;
+
+}
+.cof4{
+    color: orangered;
+    margin-top: 50px;
+    margin-left: 300px;
+    font-family: 'Kaushan Script', cursive;
+}
+.cof5{
+    color: white;
+    margin-left: 300px;
+   
+}
+.cof6{
+    background-color: rgba(240, 248, 255, 0.471);
+    border-radius: 30px;
+    margin-top: 100px;
+    height: 300px;
+}
