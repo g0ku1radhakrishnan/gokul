@@ -69,9 +69,10 @@ bottom: 10px;
     margin-top: 60px;
 }
 .cof3{
-    background-image: url(../gokul/bg2.jpg);
+    background-image: url(./bg2.jpg);
     margin-top: 40px;
     height: 500px;
+    background-size: cover;
 
 }
 .cof4{
@@ -83,11 +84,39 @@ bottom: 10px;
 .cof5{
     color: white;
     margin-left: 300px;
+    margin-top: 40px;
    
 }
 .cof6{
     background-color: rgba(240, 248, 255, 0.471);
     border-radius: 30px;
-    margin-top: 100px;
-    height: 300px;
+    margin-top: 70px;
+    height: 400px;
+    width: fit-content;
+    padding: 50px;
+    margin-left: 300px;
+   
+
 }
+.cof7{
+    border-radius: 40px;
+    margin-top: 20px;
+    border-top-color: white;
+    border-left-color:white ;
+   
+}
+.btn{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.badge {
+    text-decoration: none;
+    font-size: large;
+
+   
+}
+.cof8{
+    margin-left: 700px;
+    margin-top: 30px;
+}
+
