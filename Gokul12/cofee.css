@@ -1,0 +1,135 @@
+
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Anton&family=Kaushan+Script&display=swap');
+
+  .class1{
+      background-color: rgb(255, 115, 1);
+      border-bottom-right-radius: 15px;
+      padding-top: 20px;
+      color: white;
+      font-size: 11px;
+      
+  }
+  .class2{
+      margin-left: 400px;
+      position: relative;
+      bottom: 10px;
+  }
+  .class3{
+  margin-left: px;
+  position: relative;
+  bottom: 10px;
+  }
+  .class4{
+      text-decoration: none;
+      position: relative;
+      bottom: 10px;
+  }
+  .class7{
+      position: relative;
+      bottom: 10px;
+  }
+  .class8{
+      position: relative;
+      bottom: 10px;
+  }
+  
+  
+  
+  .class5{
+      font-family: 'Anton', sans-serif;
+      font-family: 'Kaushan Script', cursive;
+      margin-left: 450px;
+      margin-top: 10px;
+      font-weight: 500px;
+      font-size: 40px;
+  }
+  .class6{
+      text-decoration: none;
+      margin-top: 15px;
+      color: black;
+      
+  }
+  .img{
+      border-top-left-radius: 50px;
+      position: relative;
+      right: 12px;
+  }
+  .cof{
+      margin-left: 400px;
+      margin-top: 50px;
+      border-radius: 10px;
+  }
+  .cof2{
+      font-family: 'Kaushan Script', cursive;
+      color: orangered;
+  
+  }
+  .cof1{
+      margin-top: 60px;
+  }
+  .cof3{
+      background-image: url(./bg2.jpg);
+      margin-top: 40px;
+      height: 500px;
+      background-size: cover;
+  
+  }
+  .cof4{
+      color: orangered;
+      margin-top: 50px;
+      margin-left: 300px;
+      font-family: 'Kaushan Script', cursive;
+  }
+  .cof5{
+      color: white;
+      margin-left: 300px;
+      margin-top: 40px;
+     
+  }
+  .cof6{
+      background-color: rgba(240, 248, 255, 0.471);
+      border-radius: 30px;
+      margin-top: 70px;
+      height: 400px;
+      width: fit-content;
+      padding: 50px;
+      margin-left: 300px;
+     
+  
+  }
+  .cof7{
+      border-radius: 40px;
+      margin-top: 20px;
+      border-top-color: white;
+      border-left-color:white ;
+     
+  }
+  .btn{
+      margin-left: 40px;
+      margin-top: 10px;
+  }
+  .badge {
+      text-decoration: none;
+      font-size: large;
+  
+     
+  }
+  .cof8{
+      margin-left: 700px;
+      margin-top: 30px;
+  }
+  .f1{
+     margin-left: 400px;
+    border-radius: 20px;
+    margin-top: 50px;
+    width: 100%;
+  }
+  .f2{
+    width: 100%;
+  }
+.f4{
+    background-color: black;
+    margin-top: 50px;
+}
+  
