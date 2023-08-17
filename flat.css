@@ -1,0 +1,29 @@
+.cls1{
+    background: url(img/Adidas-Wallpaper-For-Computer.jpg); 
+    background-repeat: no-repeat;
+
+    
+    padding-top: 500px;
+    text-align: center;
+    color: lightyellow;
+}
+h1{
+    color: lightyellow;
+    text-align: center;
+  
+}
+.cls2{
+  
+    text-align: center;
+   
+}
+/* .hr{
+    color: white;
+    
+} */
+.btn{
+    width: 110px;
+    position: relative;
+    left: 900px;
+    margin-top: 50px;
+   
