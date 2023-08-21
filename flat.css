@@ -63,8 +63,27 @@ border-bottom: 4px solid orangered;
     height: 70px;
     width: 70px;
     margin-left: 200px;
-    margin-top: 50px;
+    margin-top: 90px;
 }
 .bg2{
-    background: url(../gokul/img/nike\ bg.jpg);
+    background: url(../gokul/img/blue.avif);
+
+background-size: cover;
+    background-repeat: no-repeat;
+
 }
+.g1{
+    
+    /* margin-left:300px; */
+  margin-top: 150px;
+  margin-right: 90px;
+}
+.btn1{
+    margin-top: 30px;
+    width: 200px;
+}
+.nike1{ 
+    height: 300px;
+    width: 300px;
+}
+
