@@ -86,4 +86,50 @@ background-size: cover;
     height: 300px;
     width: 300px;
 }
+.cl{
+    margin-left: 160px;
+    margin-top: 20px;
+}
+.l2{
+    height: 300px;
+    width: 350px;
+    margin-top: 150px;
+    margin-left: 250px;
+    border-radius: 10px;
+}
+.l3{
+    margin-top: 20px;
+    font-weight: 10px;
+}
+.l4{
+    margin-top: 40px;
+    color: red;
+    font-weight: 100px;
+    
+}
+.m1{
+    margin-top: 50px;
+    width: 350px;
+}
+#img1{
+    float: left;
+   
+}
+.l5{
+    margin-left: 150px;
+    margin-right: 10px;
+    margin-top: 30px;
+    
+    
 
+}
+.l6{
+    margin-top: 15px;
+    margin-top: 30px;
+}
+.l7{
+    margin-top: 20px;
+}
+.l8{
+    margin-top: 25px;
+}
